@@ -1,0 +1,36 @@
+ body {
+width:1920 ;
+height:1080px;
+background-color:rgb(37, 36, 36) ;
+color:bisque ;
+margin:50px ;
+border:5[px] ;
+padding:50 ;
+ }
+ nav {
+    background-color: black;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: peachpuff;
+    padding: 5px 10px;
+}
+
+nav a:hover {
+    background-color: black;
+;
+
